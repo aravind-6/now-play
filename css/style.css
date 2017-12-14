@@ -52,7 +52,7 @@ padding: 10px 0;}
 .hdrright ul li a.city{background: url("../images/location.png") no-repeat left; padding: 0 0 0 13px;
 	
 }
-.hdrright a.login {color:#006cb7;}
+.hdrright a.login {color:#006cb7;background:#000000;}
 
 .hdrright a:hover { text-decoration: none;	
 }
