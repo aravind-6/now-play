@@ -51,6 +51,7 @@ a:hover {
 }
 abbr[title] {
   border-bottom: 1px dotted;
+border-top: 1px solid blue
 }
 b,
 strong {
